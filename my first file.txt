@@ -1,8 +1,16 @@
 hello,
 
 
+<<<<<<< HEAD
 this is my first file
 
 ne
 
 this is another line
+=======
+this is my first file.
+
+this is a new line.
+ 
+this is a l;eo
+>>>>>>> c7f6760a528caa6f5a8549c03b6406c3ea396596
